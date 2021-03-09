@@ -1,4 +1,8 @@
 Joachim Nilsvik
 Dilan Shwane
+<<<<<<< HEAD
 
 Feil fil men oh well...
+=======
+saidy
+>>>>>>> 336c986b746558622203a87dfec554c304a34cd1
